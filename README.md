@@ -1,5 +1,7 @@
 # Special Man Boos Solution Internship Training
-https://boost.specialmansolution.com/pluginfile.php/1/core_admin/logocompact/300x300/1676541080/Special%20Man%20Logo%20250%20x%2080.png
+![Special Man Logo 250 x 80](https://user-images.githubusercontent.com/55829039/221335031-202bbac0-1d1f-4d8e-86cd-cf01d4f7cf05.png)
+
+
 
 ## Assignment 1
 Replicate the API in video number 4.
