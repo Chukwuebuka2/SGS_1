@@ -16,6 +16,25 @@ Replicate the API in video number 4.
 - Submit your GitHub link alongside the live preview (render) link.
 
 
+### How to run locally
+Here are the steps to run this project locally
+1. Clone the repository using the following command 
+    ```git clone https://github.com/Chukwuebuka2/SGS_1```
+2. Navigate intto the SGS_1 directory
+    ```cd SGS_1```
+3. Install the required node modules
+    ```npm install```
+4. Create a `.env` folder and add the port number to it e.g
+    ```PORT = XXXX```
+    Where `XXXX` is the desired port number.
+4. Start the server by running the `index.js` file
+    ```node index.js```
+
+Check the API Documentattion to check for the possible endpoints
 ### API Documentation
+Here is a link to the [POSTMAN Documentation](https://documenter.getpostman.com/view/20124288/2s93CPprrc)
 ##### Hello world
-To check if the site is up and running, just hit the 
+
+Here is the [live link](https://courses-api-ib71.onrender.com)
+
+Created by Nwokporo Chukwuebuka Victor
